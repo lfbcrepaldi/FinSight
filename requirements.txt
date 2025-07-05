@@ -1,0 +1,5 @@
+humanize==4.12.3
+pandas==2.3.0
+plotly==6.1.2
+streamlit==1.46.0
+yfinance==0.2.59
